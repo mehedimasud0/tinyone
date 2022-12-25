@@ -1,0 +1,165 @@
+body, ul, li, a, input{
+    font-family: 'PT Sans', sans-serif;
+}
+
+/*Header Start*/
+header{
+    background-color: #fcdb00;
+    padding: 20px 0;
+}
+.nav_bg{}
+.logo{}
+.logo img{}
+.menu{}
+.menu ul{}
+.menu ul li{
+    padding: 0 20px;
+}
+.menu ul li:last-child{
+    padding-right: 0;
+}
+.menu ul li a{
+    color: black;
+    font-weight: 700;
+}
+.menu ul li a:hover{
+    color: #fffdfd !important;
+}
+/*Header End*/
+/*Baner Section Start*/
+.slider{
+    background-color: #fcdb00;
+    padding-bottom: 100px;
+}
+.c_indicate {
+    bottom: -90px;
+}
+.c_indicate [data-bs-target] {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+
+.slide_content{
+    padding: 70px 20px 0;
+}
+.slide_content h1{
+    font-family: ;
+    font-size: 32px;
+    font-weight: 700;
+}
+.slide_content h3{
+    font-size: 20px;
+    margin: 20px 0;
+}
+.slide_content p{}
+.s_icon{}
+.s_icon ul{}
+.s_icon ul li{}
+.s_icon ul li i{
+    font-size: 42px;
+    padding: 20px 10px;
+}
+.s_icon ul li i:hover{}
+.slide_img{}
+.slide_img img{}
+/*Baner Section End*/
+/*Feature Section Start*/
+.c_padding{
+    padding: 80px 0;
+    
+}
+.feature{
+}
+.feature_c{}
+.f_h1{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+.f_p{
+    font-size: 20px;
+}
+/*Feature Bottom*/
+.single_feature{
+    margin-top: 50px;
+}
+.feature_icon{
+    padding-top: 8px;
+}
+.feature_icon i{
+    font-size: 50px;
+    
+}
+
+.feature_content{
+    padding: 0 5px;
+}
+.feature_content h2{
+    font-size: 22px;
+}
+.feature_content p{
+    color: #d1d1d1;
+    line-height: 20p
+}
+/*Feature Section End*/
+/*Contact Section Start*/
+.contact_section{
+    background-color: black;
+}
+.yellow{
+    color: #fcdb00;
+}
+/*Content Middle*/
+.c_form{
+    margin-top: 40px;
+    
+}
+.c_f_input{
+    height: 50px;
+}
+.c_button{
+    color: black;
+    background-color: #fcdb00;
+    border: none;
+    height: 50px;
+    width: 100%;
+}
+/*Social Icon*/
+.c_icon{
+    margin-top: 50px;
+}
+.c_icon ul li a i{
+    font-size: 30px;
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+    padding: 7px;
+    color: black;
+    background-color: #fcdb00;
+}
+.c_icon ul li{
+    
+}
+/*Contact Section End*/
+/*footer Start*/
+footer{
+    background-color: black;
+}
+.footer_address{
+    color: #d1d1d1;
+    margin-top: 20px;
+}
+.single_footer{
+    margin-top: 20px;
+}
+.single_footer ul{}
+.single_footer ul li{
+    list-style-type: none;
+}
+.single_footer ul li a{
+    text-decoration: none;
+    color: #d1d1d1;
+}
+.single_footer ul li a:hover{}
+/*footer End*/
